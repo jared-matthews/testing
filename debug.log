@@ -1,0 +1,26 @@
+received block 890e38db3ea7c4f0239b
+SetBestChain: new best=890e38db3ea7c4f0239b  height=36940  trust=64303405836127  blocktrust=1464177655  date=09/22/2016 14:32:18
+ProcessBlock: ACCEPTED
+getblocks -1 to 00000000000000000000 limit 500
+getblocks -1 to 00000000000000000000 limit 500
+getblocks -1 to 00000000000000000000 limit 500
+getblocks -1 to 00000000000000000000 limit 500
+Flushing wallet.dat
+Flushed wallet.dat 6ms
+received block 22f1e4b9d53d130362a1
+SetBestChain: new best=22f1e4b9d53d130362a1  height=36941  trust=64304734538540  blocktrust=1328702413  date=09/22/2016 14:32:25
+ProcessBlock: ACCEPTED
+trying connection 89.31.57.5:58786 lastseen=2.2hrs
+getblocks -1 to 00000000000000000000 limit 500
+getblocks -1 to 00000000000000000000 limit 500
+getblocks -1 to 00000000000000000000 limit 500
+getblocks -1 to 00000000000000000000 limit 500
+Flushing wallet.dat
+Flushed wallet.dat 8ms
+getblocks -1 to 00000000000000000000 limit 500
+asif@ubuntu-desk:~$ uname -r
+4.4.0-38-generic
+asif@ubuntu-desk:~$ digitalrsd getconnectioncount
+14
+asif@ubuntu-desk:~$ 
+
